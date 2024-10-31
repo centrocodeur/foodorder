@@ -1,0 +1,8 @@
+fa-icon{
+  cursor: pointer;
+  color: #ff9800;
+
+  font-size: 2rem;
+  margin: 0 0.2rem;
+  transition: color 0.4s ease-in-out;
+}
